@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/CesiumGS/cesium/wiki/logos/Cesium_Logo_Color.jpg" width="50%" />
+<img src="https://github.com/CesiumGS/cesium/wiki/logos/Cesium_Logo_Color.jpg" width="60%" />
 </p>
 
 [![Build Status](https://travis-ci.org/CesiumGS/cesium.svg?branch=master)](https://travis-ci.org/CesiumGS/cesium)&nbsp;
